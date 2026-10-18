@@ -7,7 +7,7 @@ MOVIE (Multi-platform Observations from Volunteers: Ionospheric Experiments) is 
 
 The CINEMA-MOVIE GitHub site is where MOVIE posts its observing campaigns, the instructions for taking part, and the results from volunteer data. There are three ways to take part:
 
-- **Photograph the aurora** during MOVIE campaigns, if you are an aurora chaser. See [Campaigns]({{ "/campaigns/" | relative_url }}) and [Observing Guidance]({{ "/observing/" | relative_url }}).
+- **Photograph the aurora** during MOVIE campaigns, if you are an aurora chaser. See [Photograph Aurora]({{ "/photograph/" | relative_url }}).
 - **Host an instrument**, if you are a licensed amateur radio operator who can run a Personal Space Weather Station. See [Host an Instrument]({{ "/host/" | relative_url }}).
 - **Label aurora** in movies from the satellites, which anyone can do from a phone or a browser. See [Label Aurora]({{ "/label/" | relative_url }}).
 

@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Meeting Minutes
 permalink: /minutes/
+redirect_to: https://vincentledvina.github.io/cinema-movie/about/#meeting-minutes
 ---
-
-Summaries of MOVIE advisory board meetings will be posted here. The first meeting is planned for November 2026.

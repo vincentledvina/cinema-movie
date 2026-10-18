@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Observing guides, graphics, and visualization tools for MOVIE volunteers will be collected here as they are ready.
+Observing guides, graphics, and visualization tools for MOVIE volunteers will be collected here as they are ready, along with MOVIE's results and publications.
 
 ## Space weather and aurora data
 
@@ -20,3 +20,15 @@ Observing guides, graphics, and visualization tools for MOVIE volunteers will be
 
 - [HamSCI](https://hamsci.org)
 - [Personal Space Weather Station network](https://pswsnetwork.eng.ua.edu/home)
+
+## Results and publications
+
+Campaign summaries, volunteer datasets, publications, and an image gallery will be posted here as MOVIE campaigns produce them. Every volunteer dataset published in the [CINEMA-MOVIE community on Zenodo](https://zenodo.org/communities/cinema-movie) will be listed with its DOI (digital object identifier).
+
+### Datasets
+
+None yet. Volunteer datasets will be listed here once the first campaign records are published.
+
+### Publications
+
+None yet.

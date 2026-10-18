@@ -28,15 +28,11 @@ url: "https://vincentledvina.github.io" # the base hostname & protocol for your 
 
 header_pages:
   - 1_about.md
-  - 2_mission.md
-  - 3_goals.md
-  - campaigns.md
-  - observing.md
+  - science.md
+  - photograph.md
   - host.md
   - label.md
-  - 4_minutes.md
   - 5_resources.md
-  - 6_results.md
 
 # Build settings
 theme: minima
@@ -44,6 +40,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-scholar
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
