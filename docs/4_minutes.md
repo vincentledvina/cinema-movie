@@ -2,7 +2,6 @@
 layout: page
 title: Meeting Minutes
 permalink: /minutes/
-mermaid: true
 ---
 
-Keep your meeting minutes here! 
+Summaries of MOVIE advisory board meetings will be posted here. The first meeting is planned for November 2026.

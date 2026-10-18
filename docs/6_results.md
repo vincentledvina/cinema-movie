@@ -4,13 +4,12 @@ title: Results and Publications
 permalink: /results/
 ---
 
-## Table of Contents 
-{:.no_toc}
-* TOC
-{:toc}
+Campaign summaries, volunteer datasets, publications, and an image gallery will be posted here as MOVIE campaigns produce them. Every volunteer dataset published on Zenodo will be listed with its DOI.
 
 ## Datasets
-{% bibliography -f datasets.bib %}
+
+None yet. Volunteer datasets will be listed here once the first campaign records are published.
 
 ## Publications
-{% bibliography -f publications.bib %}
+
+None yet.

@@ -2,69 +2,24 @@
 layout: page
 title: Goals
 permalink: /goals/
-mermaid: true
 ---
-## Goals
-{:.no_toc}
 
-_This is a page for describing the goals of your working group. Some suggested options are below which may be helpful for organizing your thinking, but you don't have to use them!_
+MOVIE's volunteer work serves three science questions. Each one pairs data from the CINEMA satellites with measurements made on the ground.
 
+## Science question 1: what controls magnetic disturbances at the ground?
 
-## Table of Contents 
-{:.no_toc}
-* TOC
-{:toc}
+Rapid changes in Earth's magnetic field at the surface can drive currents in power grids and pipelines. The first question asks how much those disturbances depend on the energy of the particles raining down into the atmosphere, and how much on how close a location is to aurora of different sizes and time scales. The main region of interest is Canada and Alaska, where magnetic observatories sit near the University of Calgary's all-sky cameras.
 
-## Science Traceability Matrix
-A science traceability matrix can be a useful tool if your working group focuses on designing an instrument to address a scientific question.
+A second part of this question asks whether the answer is different at mid-latitudes, likely the Upper Midwest of the United States, and aurora chaser campaigns will serve that part of the question. Photographs from many observers on the same night, with accurate times and locations, show where the aurora was when the satellites passed over.
 
-| Science Goals | Science Objectives | Scientific Measurement Requirements | Scientific Measurement Requirements | Instrument Performance Requirements | Projected Instrument Performance | Mission Requirements (Top Level) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Observables** | **Physical parameters** |  |  |  |
-| Goal 1 | Objective 1 | Absorption line | Column density of absorber | Alt. Range | XX km | ZZ km |
-| Goal 2 |  | Emission line | Density and temperature of emitter | Alt. Range | XX km | ZZ km |
-| Etc. |  | Morphological feature | Size of features | Vert. Resol. | XX km | ZZ km |
-|  |  |  |  | Horiz. Resol. | XX deg x XX lat x XX long | ZZ deg x ZZ lat x ZZ long |
-|  |  |  | Rise time of eruptive phenomenon | Temp. Resol. | XX min | ZZ min. |
-|  |  |  |  | Precision | XX K | ZZ K |
-|  |  |  | Rate of change of observable phenomenon | Accuracy | XX K | ZZ K |
-|  | Objective 2 to N |  |  | Repeat above categories |  |  |
+## Science question 2: chorus waves and microbursts
 
+Very low frequency (VLF) radio waves in space, called whistler mode chorus, can knock high-energy electrons into the atmosphere in short bursts called microbursts. The second question asks how the properties of the chorus waves relate to the properties of the microbursts at high latitudes. Science question 2 uses VLF receivers on the ground in Canada and Alaska, alongside the satellites' imagers and particle detectors.
 
-### Logic Model/Theory of Change
-A [logic model](https://learning.nceas.ucsb.edu/2023-08-usgs/session_02.html) may be a good option if your group is focused on educational activities. 
+## Science question 3: aurora and HF radio
 
-```mermaid
-flowchart LR
-    subgraph Foundation
-        A[Inputs / Resources] --> B[Activities]
-    end
+The third question asks how the size and structure of the aurora relate to disturbances in high frequency (HF) radio signals whose paths cross it. Amateur radio operators already run a large network of HF receivers, and new receivers in the auroral zone will add paths that cross the aurora directly.
 
-    subgraph Execution
-        B --> C[Outputs]
-    end
+## What all three need from volunteers
 
-    subgraph Results & Impact
-        C --> D[Short-Term Outcomes]
-        D --> E[Medium-Term Outcomes]
-        E --> F[Long-Term Impact]
-    end
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bfb,stroke:#333,stroke-width:2px
-    style D fill:#ff9,stroke:#333,stroke-width:2px
-    style E fill:#f96,stroke:#333,stroke-width:2px
-    style F fill:#f66,stroke:#333,stroke-width:2px
-```
-
-| Logic Model Element | Logic Model Framing | Synthesis Research Framing |
-| --- | --- | --- |
-| **Problem Statement** | What is the problem? Why is this a problem? Who does this impact? | What is the current state of knowledge? What gaps exists in understanding? Why is more information / synthesis important? |
-| **Inputs** | What resources are needed for the program (e.g. personnel, money, time, equipment, partnerships, etc.)? | What is needed to undertake the synthesis research? For personnel, think in terms of the roles that are needed (e.g. data manager, statistician, writer, editor etc.) Consider the time frame. Condsider what data are needed and what already exists? |
-| **Outputs - Activities** | What will be done (e.g. development, design, workshops, conferences, counseling, outreach, etc.)? | What activities are needed to conduct the research? This could be high level or it could be broken down into details such as the types of statistical approaches. |
-| **Outputs - Participants** | Who will we reach (e.g. clients, participants, customers, etc.)? | Who is the target audience? Who will be impacted by this work? Who is positioned to leverage this work? |
-| **Outputs - Products** | What will you create (e.g. publications, websites, media communications, etc.)? | What research products are planned or expected? Consider this in relation to the intended audience. Is a peer-reviewed publication, report or white paper most appropriate? How will derived data be handled? Will documentation, workflows, or code be published? |
-| **Outcomes - Short-term** | What short-term outcomes are anticipated among participants? These might include changes in awareness, knowledge, skills, attitudes, opinions or intent. | Will this work represent a significant contribution to current understanding? |
-| **Outcomes - Medium-term** | What medium-term outcomes are predicted among participants? These might include changes in behaviors, decision-making and actions. | Will this work promote increased research activity or open new avenues of inquiry? |
-| **Outcomes - Long-term** | What long-term benefits, or impacts, are expected? This might include changes in social, economic, civic, or environmental conditions. | Will this work result in local, regional or national policy change? What will be the long-term impact of increased investment in the ecosystem? |
+All three questions need labels of auroral forms in the satellites' movies, which is the work of the [aurora labelers]({{ "/label/" | relative_url }}). Each question also needs ground measurements: photographs from [aurora chasers]({{ "/campaigns/" | relative_url }}) for the mid-latitude part of question 1, and magnetometer, VLF, and HF data from [Personal Space Weather Stations]({{ "/host/" | relative_url }}).

@@ -18,12 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HamSCI Working Group
+title: CINEMA-MOVIE
 description: >- # this means to ignore newlines until "baseurl:"
-  A HamSCI Working Group.
-baseurl: "/hamsci-wg/" # the subpath of your site, e.g. /blog
-domain: hamsci.github.io
-url: "https://hamsci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Volunteer campaigns, observing guidance, and results for MOVIE, the citizen science
+  component of NASA's CINEMA mission.
+baseurl: "/cinema-movie" # the subpath of your site, e.g. /blog
+domain: vincentledvina.github.io
+url: "https://vincentledvina.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+header_pages:
+  - 1_about.md
+  - 2_mission.md
+  - 3_goals.md
+  - campaigns.md
+  - observing.md
+  - host.md
+  - label.md
+  - 4_minutes.md
+  - 5_resources.md
+  - 6_results.md
 
 # Build settings
 theme: minima
