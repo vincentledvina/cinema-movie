@@ -13,7 +13,7 @@ Photographs are most useful to the science when MOVIE knows exactly when and whe
 
 ## Set your camera clock
 
-Camera clocks drift, and many are left on local time or were never set after a battery change. A photo with the wrong time cannot be matched to what the satellites saw.
+Camera clocks drift, and many are left on local time or were never set after a battery change. A photo with the wrong time is hard to match to what the satellites saw.
 
 Before a campaign night:
 
@@ -27,7 +27,7 @@ For each session, write down or keep track of:
 - the date and the start and end times, in UTC;
 - where you observed from, either exact coordinates or the nearest town;
 - the direction the camera was pointing;
-- the camera, lens, and exposure settings (shutter speed, aperture, ISO);
+- the camera, lens, and exposure settings (shutter speed, aperture, and ISO, the sensor sensitivity);
 - anything you noticed about the aurora: its form, motion, or color, and anything unusual.
 
 ## Location and privacy
@@ -36,10 +36,10 @@ If you observe from home, you can give the nearest town in place of exact coordi
 
 ## Submitting your images
 
-Images will be submitted to the CINEMA-MOVIE community on Zenodo, a free research data archive hosted by CERN. Each record you submit will name you as its creator, carry a DOI that can be cited, and be published under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license. You keep the copyright, and anyone may reuse an image if they credit you.
+Images will be submitted to the [CINEMA-MOVIE community on Zenodo](https://zenodo.org/communities/cinema-movie). Zenodo is a free research data archive hosted by CERN (the European Organization for Nuclear Research). Each record you submit will name you as its creator, carry a DOI (digital object identifier) that can be cited, and be published under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license. You keep the copyright, and anyone may reuse an image if they credit you.
 
-A MOVIE curator will check each submission before it is published. The step-by-step procedure, adapted from the one HamSCI uses for its [Meteor Scatter QSO Party](https://hamsci.org/msqp), will be posted here before the first campaign.
+A MOVIE curator will check each submission before it is published. The step-by-step procedure, adapted from the one HamSCI uses for its [Meteor Scatter QSO Party](https://hamsci.org/msqp) (a QSO is a two-way radio contact), will be posted here before the first campaign.
 
 ## Safety
 
-Plan your route before you leave, dress for the cold, and tell someone where you are going. No observation is worth an unsafe drive.
+Plan your route before you leave, dress for the cold, and tell someone where you are going. Please do not drive or observe in unsafe conditions for a MOVIE campaign.

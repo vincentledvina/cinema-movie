@@ -14,17 +14,23 @@ MOVIE (Multi-platform Observations from Volunteers: Ionospheric Experiments) is 
 
 | | Aurora chasers | Amateur radio operators | Aurora labelers |
 |---|---|---|---|
-| **What MOVIE asks** | Photographs from a specific place on a specific night during a campaign | Host and maintain a Personal Space Weather Station (PSWS) and keep it collecting data | Label auroral forms in movies from the CINEMA satellites |
+| **What MOVIE asks** | Photographs from a specific place on a specific night during a campaign | Host and maintain a Personal Space Weather Station (PSWS) and keep it collecting data | Label auroral forms (the shapes the aurora takes, such as arcs, beads, and streamers) in movies from the CINEMA satellites |
 | **How often** | A few campaigns a year | Continuously, for years | Any time, at your own pace |
 | **What it gives the science** | Ground imagery with position, time, and viewing direction | Magnetometer, Global Navigation Satellite System (GNSS), very low frequency (VLF), and high frequency (HF) radio data at known locations | A large labeled set of auroral movies |
 
-All three groups feed the same three science questions, described on the [Goals]({{ "/goals/" | relative_url }}) page.
+All three groups contribute to the same three science questions, described on the [Goals]({{ "/goals/" | relative_url }}) page.
 
 ## Who runs MOVIE
 
 MOVIE is part of the CINEMA mission team. Vincent Ledvina (University of Alaska Fairbanks) coordinates the aurora chaser campaigns. Kristina Collins and Nathaniel Frissell of HamSCI (Ham Radio Science Citizen Investigation) are the contacts for amateur radio operators, and the CINEMA team building the labeling app is the contact for aurora labelers.
 
 An advisory board of aurora chasers and amateur radio operators reviews MOVIE's plans on behalf of volunteers.
+
+## MOVIE online
+
+- **This site**, for campaigns, observing guidance, and results.
+- **The [CINEMA-MOVIE community on Zenodo](https://zenodo.org/communities/cinema-movie)**, where campaign images will be submitted and published, each with the observer's name and a citable DOI (digital object identifier).
+- **The MOVIE email list and discussion forum**, which will open later in the mission. The CINEMA-MOVIE GitHub site will link to them once they are open.
 
 ## Contact
 

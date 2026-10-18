@@ -8,8 +8,8 @@ Observing guides, graphics, and visualization tools for MOVIE volunteers will be
 
 ## Space weather and aurora data
 
-- [NOAA Space Weather Prediction Center](https://www.swpc.noaa.gov): forecasts, watches, and real-time solar wind data.
-- [University of Calgary Auroral Imaging Group](https://www.ucalgary.ca/aurora): all-sky camera data and keograms from across Canada.
+- [NOAA Space Weather Prediction Center (SWPC)](https://www.swpc.noaa.gov): space weather forecasts, geomagnetic storm watches, and real-time solar wind data.
+- [University of Calgary Auroral Imaging Group](https://www.ucalgary.ca/aurora): all-sky camera images and keograms (a north-south slice of the sky plotted over time) from across Canada.
 
 ## Data archives
 
