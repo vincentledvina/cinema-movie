@@ -6,9 +6,9 @@ MOVIE (Multi-platform Observations from Volunteers: Ionospheric Experiments) is 
 
 ## Editing
 
-Pages are Markdown files in `docs/`. The order of the header links is set by `header_pages` in `docs/_config.yml`. Every push to `main` rebuilds the site through the GitHub Actions workflow in `.github/workflows/pages.yml`.
+Pages are Markdown files in `docs/`. The order of the header links is set by `header_pages` in `docs/_config.yml`. The menu has six pages: About, Science, Photograph Aurora, Host an Instrument, Label Aurora, and Resources. The files `2_mission.md`, `3_goals.md`, `4_minutes.md`, `6_results.md`, `campaigns.md`, and `observing.md` only redirect old addresses to the merged pages (through jekyll-redirect-from). Every push to `main` rebuilds the site through the GitHub Actions workflow in `.github/workflows/pages.yml`.
 
-To list datasets and publications on the Results page, add BibTeX entries to `docs/_bibliography/datasets.bib` or `docs/_bibliography/publications.bib`, and put `{% bibliography -f datasets.bib %}` (or `publications.bib`) back under the matching heading in `docs/6_results.md`.
+To list datasets and publications on the Results page, add BibTeX entries to `docs/_bibliography/datasets.bib` or `docs/_bibliography/publications.bib`, and put `{% bibliography -f datasets.bib %}` (or `publications.bib`) under the matching heading in `docs/5_resources.md`.
 
 ## License
 
