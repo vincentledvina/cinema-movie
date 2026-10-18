@@ -9,3 +9,8 @@
 	width: 38px;
 	top: 5px;
 }
+
+// Keep each menu label on one line ("Host an Instrument" was splitting across two lines)
+.site-nav .page-link {
+	white-space: nowrap;
+}
