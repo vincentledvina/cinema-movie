@@ -52,8 +52,6 @@ Summaries of MOVIE advisory board meetings are posted here, newest first.
 - **Exchange visits and travel.** The team is budgeting for volunteer travel support. One idea is for HamSCI members to attend the Michigan Aurora Chasers workshop and for aurora chasers to attend the HamSCI Workshop in Scranton. Board members also asked about a field trip to the CINEMA launch, and Michael Hartinger will raise it with Robyn Millan, CINEMA's principal investigator.
 - **International Polar Year.** The International Polar Year of 2032 to 2033 will overlap with CINEMA's operations, so preparation for the two efforts could be combined.
 
-**Questions still open.** The meeting ran out of time before the board discussed which messaging platform to use during campaigns (WhatsApp or another), how much notice volunteers need before a campaign, whether to hold a practice campaign before CINEMA launches, and whether the forum categories fit each community. Vincent Ledvina is collecting answers by email.
-
 **Next steps.**
 
 | When | What | Who |
