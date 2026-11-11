@@ -36,7 +36,7 @@ Summaries of MOVIE advisory board meetings are posted here, newest first.
 
 ### 2026-11-11: First advisory board meeting
 
-Thirteen of the 16 advisory board members joined Vincent Ledvina and Michael Hartinger on Zoom for the board's first meeting. The board members included aurora chasers from the United States, Canada, and Svalbard and amateur radio operators from HamSCI. The meeting lasted about an hour. Each member introduced themselves and their community, Vincent Ledvina presented the project, and the board gave feedback on the plan. The slides are published in the [CINEMA-MOVIE community on Zenodo](https://zenodo.org/communities/cinema-movie). The recording went to the board by email and is not posted here.
+13 of the 16 advisory board members joined Vincent Ledvina and Michael Hartinger on Zoom for the board's first meeting. The board members included aurora chasers from the United States, Canada, and Svalbard and amateur radio operators from HamSCI. The meeting lasted about an hour. Each member introduced themselves and their community, Vincent Ledvina presented the project, and the board gave feedback on the plan. The slides are published in the [CINEMA-MOVIE community on Zenodo](https://zenodo.org/communities/cinema-movie). The recording went to the board by email and is not posted here.
 
 **Presentation.** The slides covered CINEMA and its three instruments, MOVIE's three science questions, the three volunteer communities (aurora chasers, amateur radio operators, and aurora labelers), planned and short-notice campaigns, the MOVIE timeline, and the volunteer interaction plan. They also covered this site, the announcement email list and forum, how aurora chasers will submit photographs through Zenodo, the labeling app, how the board will coordinate, and what MOVIE asks of the board. CINEMA is planned to launch in 2030, and MOVIE will continue past the current planning phase only if NASA approves it after the Preliminary Design Review (PDR) in January 2027.
 
@@ -44,7 +44,7 @@ Thirteen of the 16 advisory board members joined Vincent Ledvina and Michael Har
 
 - **Submitting photographs.** Board members who created the accounts needed for Zenodo found the instructions clear. Uploading photographs and their details takes effort, so the board suggested that each community identify a few committed volunteers to do most of the submitting. A video walk-through of the steps, which Vincent Ledvina plans to record in a later phase, and a checklist for volunteers who help others submit would both be useful.
 - **Location privacy.** An exact location is optional. Observers can give a general location, such as a town, in the public Zenodo record and may email an exact location privately to Vincent Ledvina. Exact positions could support analyses that combine several viewpoints of the same auroral structure, such as three-dimensional reconstructions, and they will not be used for anything else.
-- **Quick links and materials.** The board asked for one page of quick links that sends volunteers to the right place for each task, and for half-page or postcard-sized graphics that explain CINEMA and MOVIE and why aurora chasers take part. This site is meant to serve as the quick-links page, and Vincent Ledvina asked members to say if it does not.
+- **Quick links and materials.** The board asked for one page of quick links that sends volunteers to the right place for each task, and for half-page or postcard-sized graphics that explain CINEMA and MOVIE and why aurora chasers take part. This site is meant to serve as the quick-links page.
 - **What to photograph.** Aurora near the path of a CINEMA satellite would be the most useful, with the camera direction recorded so that the images fall within the field of view of AIM, CINEMA's auroral imager. Unusual features such as STEVE (Strong Thermal Emission Velocity Enhancement) and SAR (stable auroral red) arcs would be the highest priority. The details will be set in later phases.
 - **Science questions.** The three MOVIE science questions are the ones the team will use to show NASA that MOVIE can succeed. Volunteers are welcome to pursue their own questions with the data, and the team would like to encourage that.
 - **Growing the communities.** The labeling app could introduce students to amateur radio and aurora photography, and the two communities could work together more.
@@ -74,4 +74,4 @@ Thirteen of the 16 advisory board members joined Vincent Ledvina and Michael Har
 
 ## Contact
 
-Questions about MOVIE can go to Vincent Ledvina at [vincentledvina@gmail.com](mailto:vincentledvina@gmail.com).
+Questions about MOVIE can go to Vincent Ledvina at [vledvina@alaska.edu](mailto:vledvina@alaska.edu).

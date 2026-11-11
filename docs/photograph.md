@@ -71,7 +71,7 @@ Your photographs can only be matched to what the CINEMA satellites saw if MOVIE 
 Your record is public, and it cannot be deleted once published, so decide how precise a location to give before you submit.
 
 - If you observed from a public site, such as a park, a pullout, or a dark-sky site, you can give its name and coordinates.
-- If you observed from home, give the nearest town in the public record. If you are willing, email your exact coordinates to the MOVIE team at [vincentledvina@gmail.com](mailto:vincentledvina@gmail.com). MOVIE keeps them with the science data and does not publish them.
+- If you observed from home, give the nearest town in the public record. If you are willing, email your exact coordinates to the MOVIE team at [vledvina@alaska.edu](mailto:vledvina@alaska.edu). MOVIE keeps them with the science data and does not publish them.
 
 ### 5. Create a Zenodo account
 
@@ -133,7 +133,7 @@ Please do not put your email address or phone number in the description. Everyth
 
 A MOVIE curator reviews each submission before it is published, usually within a few days of a campaign. The curator checks the title format, the description fields, and the keywords, and may ask you to add something that is missing. Once the record is accepted, it is published with its DOI, and it will be listed with the other campaign records on the [Resources]({{ "/resources/" | relative_url }}) page.
 
-Questions about submitting? Email [vincentledvina@gmail.com](mailto:vincentledvina@gmail.com), or ask in the Aurora Chasers category on the MOVIE forum once it opens.
+Questions about submitting? Email [vledvina@alaska.edu](mailto:vledvina@alaska.edu), or ask in the Aurora Chasers category on the MOVIE forum once it opens.
 
 ### Safety
 
