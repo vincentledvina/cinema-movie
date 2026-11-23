@@ -37,7 +37,7 @@ A short-notice campaign will only be called when a large part of the target regi
 
 ## Observing guidance
 
-After a MOVIE campaign night, you can submit your photographs to the CINEMA-MOVIE community on Zenodo, a free research data archive. Each record you submit is published with your name as its creator and gets a DOI (digital object identifier), a permanent link that scientists can cite when they use your images. The steps below are adapted from the procedure HamSCI uses for its Meteor Scatter QSO Party.
+After a MOVIE campaign night, you can submit your photographs to the CINEMA-MOVIE community on Zenodo, a free research data archive. Each record you submit is published with your name as its creator and gets a DOI (digital object identifier), a permanent link that scientists can cite when they refer to your images. Your images may be used in research publications. The steps below are adapted from the procedure HamSCI uses for its Meteor Scatter QSO Party.
 
 Community page: [zenodo.org/communities/cinema-movie](https://zenodo.org/communities/cinema-movie)
 
@@ -64,7 +64,7 @@ Your photographs can only be matched to what the CINEMA satellites saw if MOVIE 
 - **Keep the original file names.** The camera's numbering keeps the frames in order.
 - **Zip image sequences.** Zenodo accepts at most 100 files per record. For a time-lapse or a long sequence, put the frames in a .zip file. On Windows, select the files, right-click, and choose Send to, then Compressed (zipped) folder. On a Mac, select the files, right-click, and choose Compress.
 - **Include the clock photograph** from step 1 as its own file, for example `clock_check.jpg`.
-- JPEG files are fine. RAW files are welcome too if you want to share them, though they are much larger.
+- JPEG files are fine. RAW files are welcome too if you want to share them, though they are much larger and will be slower to upload.
 
 ### 4. Location and privacy
 
@@ -78,7 +78,7 @@ Your record is public, and it cannot be deleted once published, so decide how pr
 You need a Zenodo account to upload.
 
 1. Go to [zenodo.org](https://zenodo.org) and choose Sign up.
-2. You can sign up with ORCID, GitHub, or an email address. We suggest ORCID (Open Researcher and Contributor ID), a free identifier that keeps your contributions linked to you across projects. You can create an ORCID iD at [orcid.org](https://orcid.org).
+2. You can sign up with ORCID, GitHub, or an email address. We encourage everyone who takes part in a MOVIE campaign to create a free ORCID iD (Open Researcher and Contributor ID), an identifier that keeps your contributions linked to you across projects. You can create one at [orcid.org](https://orcid.org) and then use it to sign up.
 
 ### 6. Upload your record
 
