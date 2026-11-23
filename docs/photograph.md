@@ -22,9 +22,9 @@ A campaign asks aurora chasers in a target region to photograph the aurora on a 
 Campaigns will come in two types:
 
 - **Planned campaigns** are built around a CINEMA satellite pass that is known well in advance, and they will be announced a week or more ahead, with the observing window and the science goal stated up front.
-- **Short-notice campaigns** respond to geomagnetic activity. Activity from a coronal hole (a region of the Sun where fast solar wind escapes) often returns with the Sun's 27-day rotation, so it can be flagged a week to nearly a month ahead. A cloud of solar plasma (a coronal mass ejection, or CME) may give only 48 to 72 hours of notice once its arrival is forecast well enough to name a night.
+- **Spontaneous campaigns** respond to geomagnetic activity. Activity from a coronal hole (a region of the Sun where fast solar wind escapes) often returns with the Sun's 27-day rotation, so it can be flagged a week to nearly a month ahead. A cloud of solar plasma (a coronal mass ejection, or CME) may give only 48 to 72 hours of notice once its arrival is forecast well enough to name a night.
 
-A short-notice campaign will only be called when a large part of the target region is forecast to be clear and conditions are safe to be out in. Please do not drive or observe in unsafe conditions for a MOVIE campaign.
+A spontaneous campaign will only be called when a large part of the target region is forecast to be clear and conditions are safe to be out in. Please do not drive or observe in unsafe conditions for a MOVIE campaign.
 
 ### What you will hear, and when
 
